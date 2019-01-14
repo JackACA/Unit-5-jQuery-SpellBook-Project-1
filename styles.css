@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+h1 {
+    color:white;
+    text-align: center;
+}
+.img {
+    text-align: center;
+    padding: 10px;
+    margin:10px;
+}
+.fade {
+    text-align: center;
+    padding: 10px;
+    margin:10px;
+}
+.slide {
+    text-align: center;
+    padding: 10px;
+    margin:10px;
+}
+.hide {
+    text-align: center;
+    padding: 10px;
+    margin:10px;
+}
+.button1 {
+    text-align: center;
+
+}
+.button2 {
+    text-align: center;
+
+}
+.button3 {
+    text-align: center;
+
+}
